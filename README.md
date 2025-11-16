@@ -10,4 +10,4 @@ Um novo tipo de contador de historias!
 - Instale ou extraia o o jogo
 - Pronto
 
-## Made by Sad Berry Games
+## Pale Luna DEV
