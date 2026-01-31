@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "cli-resize": "^2.0.9",
+    "prompt-sync": "^4.2.0",
+    "prompts": "^2.4.2"
+  }
+}
